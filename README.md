@@ -2,8 +2,6 @@
 
 A **responsive, customizable** hero section template for electrician websites. Built with Elementor.  
 
-![Preview](https://projects.yasinmm.com/templates/hero-1/) 
-
 ## 🛠️ How to Use  
 1. **Download** the `.json` file.  
 2. In WordPress, go to **Templates → Saved Templates → Import**.  
